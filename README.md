@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [QuitMe](https://github.com/burakssen/QuitMe)
 
-- 👨‍💻 All of my projects are available at [burakssen.com](burakssen.com)
+- 👨‍💻 All of my projects are available at [burakssen.com](https://www.burakssen.com)
 
 - 💬 Ask me about **QuitMe**
 
