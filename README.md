@@ -29,7 +29,7 @@
 
 <p align="center">
   <!-- Add your tech stack icons here -->
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,react,nodejs,mongodb,git,docker" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,react,nodejs,docker,zig" alt="Tech Stack" />
 </p>
 
 ---
