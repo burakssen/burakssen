@@ -1,26 +1,72 @@
-<h1 align="center">Hi 👋, I'm Burak Şen</h1>
-<h3 align="center">A passionate developer and student from Turkey</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Burak+%C5%9Een;A+Passionate+Developer;Building+Innovative+Solutions" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=burakssen&label=Profile%20views&color=0e75b6&style=flat" alt="burakssen" /> </p>
+<h3 align="center">A passionate developer and student from Turkey 🇹🇷</h3>
 
-- 🔭 I’m currently working on [QuitMe](https://github.com/burakssen/QuitMe)
+<div align="center">
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=burakssen&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/burakssen)
+  [![Website](https://img.shields.io/badge/Website-burakssen.com-blue?style=flat&logo=google-chrome)](https://www.burakssen.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-burak--ssen-blue?style=flat&logo=linkedin)](https://linkedin.com/in/burak-ssen)
+  [![Email](https://img.shields.io/badge/Email-buraksen7%40hotmail.com-red?style=flat&logo=gmail)](mailto:buraksen7@hotmail.com)
+  
+</div>
 
-- 👨‍💻 All of my projects are available at [burakssen.com](https://www.burakssen.com)
+---
 
-- 💬 Ask me about **QuitMe**
+### 👨‍💻 About Me
 
-- 📫 How to reach me **buraksen7@hotmail.com**
+- 🔭 I'm currently working on [QuitMe](https://github.com/burakssen/QuitMe)
+- 👨‍💻 Check out all my projects at [burakssen.com](https://www.burakssen.com)
+- 💬 Feel free to ask me about **QuitMe** and my other projects
+- 📫 Reach me at **buraksen7@hotmail.com**
+- ⚡ Fun fact: **I really enjoy creating origami designs** 🦢
 
-- ⚡ Fun fact **I really like doing origami.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/burak-ssen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burak-ssen" height="30" width="40" /></a>
-<a href="https://instagram.com/burak.ssen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burak.ssen" height="30" width="40" /></a>
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <!-- Add your tech stack icons here -->
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,react,nodejs,mongodb,git,docker" alt="Tech Stack" />
 </p>
 
-<h3 align="left">Support:</h3>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakssen&show_icons=true&locale=en&layout=compact" alt="burakssen" /></p>
+### 📊 GitHub Stats
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=burakssen&show_icons=true&locale=en" alt="burakssen" /></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=burakssen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Burak's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakssen&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
+</div>
+
+---
+
+### 🔗 Connect with me
+
+<div align="center">
+  <a href="https://linkedin.com/in/burak-ssen" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/burak.ssen" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/burakssen" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
+### 🎯 Current Focus
+
+<div align="center">
+  <a href="https://github.com/burakssen/QuitMe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=burakssen&repo=QuitMe&theme=tokyonight" alt="QuitMe Repository"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=burakssen&theme=tokyonight&column=7" alt="trophy" />
+</div>
