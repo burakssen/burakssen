@@ -67,11 +67,12 @@
   </a>
 </div>
 
+<!--
 <div align="center">
   <a href="https://github.com/ZantFoundation/Z-Ant">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=burakssen&repo=Z-Ant&theme=tokyonight" alt="Z-Ant Repository"/>
   </a>
-</div>
+</div>-->
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=burakssen&theme=tokyonight&column=7" alt="trophy" />
